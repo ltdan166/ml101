@@ -1,2 +1,1 @@
-Coursera
-Machine Learning course exercises
+Basic Machine Learning exercises
